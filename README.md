@@ -13,10 +13,10 @@ I work at the intersection of **Machine Learning**, **Generative AI**, and **LLM
 Python • SQL • Scikit-learn • TensorFlow • XGBoost • LangChain • FastAPI • Pandas • Tableau
 
 ## 📂 Featured Projects
-- [Multi-Scale LSTM Energy Forecasting](https://github.com/shauryya28/multi-scale-lstm-energy-forecasting) — MSc Dissertation (Distinction)
-- [Supply Chain Demand Forecasting](https://github.com/shauryya28/supply-chain-demand-forecasting-ml)
-- [TCS Stock Price Prediction](https://github.com/shauryya28/tcs_stock_price_prediction)
-- [PE Doc Intelligence](https://github.com/shauryya28/pe-doc-intelligence)
+- [Multi-Scale LSTM Energy Forecasting](https://github.com/shauryya28/multi-scale-lstm-energy-forecasting) — MSc Dissertation (Distinction) — Multi-Scale LSTM with Attention for household energy forecasting
+- [Supply Chain Demand Forecasting](https://github.com/shauryya28/supply-chain-demand-forecasting-ml) — Demand forecasting using Random Forest, XGBoost, MLP. R² = 0.84
+- [TCS Stock Price Prediction](https://github.com/shauryya28/tcs_stock_price_prediction) — Financial time-series forecasting using LSTM and XGBoost. R² = 0.9999
+- [PE Document Intelligence Platform](https://github.com/shauryya28/pe-doc-intelligence) — Full-stack RAG system for private equity document analysis (FastAPI, React, LLM, PostgreSQL)
 
 ## 📫 Connect
 [LinkedIn](https://linkedin.com/in/shaurya-bhatt) • bshaurya31@gmail.com
