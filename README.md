@@ -16,6 +16,7 @@ Python • SQL • Scikit-learn • TensorFlow • XGBoost • LangChain • Fas
 - [Multi-Scale LSTM Energy Forecasting](https://github.com/shauryya28/multi-scale-lstm-energy-forecasting) — MSc Dissertation (Distinction)
 - [Supply Chain Demand Forecasting](https://github.com/shauryya28/supply-chain-demand-forecasting-ml)
 - [TCS Stock Price Prediction](https://github.com/shauryya28/tcs_stock_price_prediction)
+- [PE Doc Intelligence] (https://github.com/shauryya28/pe-doc-intelligence)
 
 ## 📫 Connect
 [LinkedIn](https://linkedin.com/in/shaurya-bhatt) • bshaurya31@gmail.com
